@@ -1,3 +1,2 @@
-# Ein sehr cooles tutrial
+# Was ist kubectl?
 
-Hier steht eine Aufgabe: mach mal was

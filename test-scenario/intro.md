@@ -1,4 +1,4 @@
-Herzlich Willkommen zu diesem Tutorial, die Umgebung wird verbereitet. 
+Herzlich Willkommen zu diesem Tutorial. Wir freuen uns sehr, dass du den Weg zu uns gefunden hast. 
 <br>
 Die Vorbereitung der Umgebung kann mehrere Minuten dauern.
 <br>
@@ -6,6 +6,7 @@ Die Vorbereitung der Umgebung kann mehrere Minuten dauern.
 In diesem Tutorial erlernst du den Umgang mit einem Pod. <br>
 Du wird einen Pod:
 * anlegen
++ skalieren
 * in einen Container springen
 * einen Pod beenden
 <br>

@@ -4,7 +4,7 @@
 
 Mit kubectl kannst du mit Hilfe eines **deployment** Pods starten und skalieren. Ein **deployment** beinhaltet die komplette Beschreibung der Laufzeitumgebung. 
 
-Mit diesem Beispiel startest du eine einfach Umgebung.
+Mit diesem Beispiel startest du eine nginx Umgebung.
 
 `kubectl create deployment --image=nginx nginx-app`{{execute}}
 

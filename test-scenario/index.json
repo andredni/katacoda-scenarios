@@ -10,12 +10,16 @@
         "text": "step1.md"
       },
       {
-        "title": "",
+        "title": "Deployment",
         "text": "step2.md"
       },
       {
-        "title": "",
+        "title": "Skalierung",
         "text": "step3.md"
+      },
+      {
+        "title": "auf in den Container",
+        "text": "step4.md"
       }
     ],
     "intro": {

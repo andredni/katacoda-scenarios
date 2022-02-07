@@ -5,5 +5,9 @@ Super, du hast das Tutorial abgeschlossen
 
 Solltest du Verbesserungswünsche oder Fragen haben, dann melde dich gern bei uns im [Teams](https://teams.microsoft.com/l/channel/19%3a3df5451f3e4e46e8bb5e18833611718a%40thread.skype/1st%2520Level%2520Support?groupId=1e4e4cce-8ab7-4df8-b28c-05377a3c41f2&tenantId=7d95deb3-0bca-4c9d-a61e-1fd6c47ed60c).
 
-viele Grüße,
+viele Grüße,<br>
 Container & Cloud
+
+<br>
+<br>
+<br>

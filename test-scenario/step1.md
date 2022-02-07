@@ -7,6 +7,6 @@ Ein Pod kann mehrere Container beinhalten.
 
 In diesem Tutorial erbeiten wir mit der CLi
 
-kubectl get nodes{{execute}}
+`kubectl get nodes`{{execute}}
 
 Mit dem oben stehenden Befehlt, erhaltet ihr die Info ob der Kubernetes Cluster fertig installiert ist. Sollte der Befehlt fehlschlagen, füre ihn in ein paar Sekunden noch einmal aus, bist du ein Liste mit den aktuellen Nodes erhälst.
